@@ -9,8 +9,7 @@ This piece consists of following sections:\
 2\. Structure — describes the system in its parts\
 3\. Algorithm — step-by-step guide on what happens when the user submits a transaction on Andromeda\
 4\. Special scenarios — how the system behaves during uncommon cases\
-5\. Diagrams — the visual representation of the system on specification level;\
-Flowchart shows the overall behavior, while the Activity diagram goes into detail of every single entity included in the system;
+5\. Diagrams — the visual representation of the system on specification level
 
 ## 1. Common questions
 
@@ -41,7 +40,7 @@ Answering the sharpest questions we receive. Check the sections below for more i
 
 ## 2. Structure
 
-The entire structure of Metis Layer 2 is designed around several algo loops (sections 2, 4, 7, 8, 12) which are designated to mitigate the potential damage and filter the possible malfunctions of decentralized actors and/or other outer ill-wishers.
+The entire structure of Metis Layer 2 is designed around several algo loops which are designated to mitigate the potential damage and filter the possible malfunctions of decentralized actors and/or other outer ill-wishers.
 
 There are 8 distinguished actors participating in the system (Governance Protocol is a part of L1 / Smart contract, but it handles a number of functions that makes it a separate entity):
 
