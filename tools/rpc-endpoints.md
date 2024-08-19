@@ -8,4 +8,4 @@ For Mainnet:\
 \- Alchemy (paid version): [https://alchemy.com](https://alchemy.com/)\
 \
 For Testnet (Sepolia)\
-\- https://sepolia.metisdevops.link
+\- [https://sepolia.metisdevops.link](https://sepolia.metisdevops.link)
