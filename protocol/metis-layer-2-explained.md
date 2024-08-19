@@ -1,4 +1,4 @@
-# Layer 2 Explained
+# Metis Layer 2 Explained
 
 ## Abstract
 
@@ -42,7 +42,7 @@ Answering the sharpest questions we receive. Check the sections below for more i
 
 The entire structure of Metis Layer 2 is designed around several algo loops which are designated to mitigate the potential damage and filter the possible malfunctions of decentralized actors and/or other outer ill-wishers.
 
-There are 8 distinguished actors participating in the system (Governance Protocol is a part of L1 / Smart contract, but it handles a number of functions that makes it a separate entity):
+There are 7 distinguished actors participating in the system (Governance Protocol is a part of L1 / Smart contract, but it handles a number of functions that makes it a separate entity):
 
 1. User sends the transactions;
 2. Sequencer Node (it’s a part of a decentralized network with rotations etc) is responsible for correcting the blockchain, propagating the blocks through the Peer Network;
