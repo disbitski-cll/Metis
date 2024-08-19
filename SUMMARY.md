@@ -13,7 +13,7 @@
 
 ## Protocol
 
-* [Layer 2 Explained](protocol/layer-2-explained.md)
+* [Metis Layer 2 Explained](protocol/metis-layer-2-explained.md)
 * [Decentralized Sequencer](decentralized-sequencer/overview/README.md)
   * [Transaction cycle](decentralized-sequencer/overview/transaction-cycle.md)
   * [Finilizing the block](decentralized-sequencer/overview/block-finality.md)
