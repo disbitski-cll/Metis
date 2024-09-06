@@ -31,6 +31,7 @@
   * [Envio](tools/indexers/envio.md)
   * [SubQuery](tools/indexers/subquery.md)
 * [Oracles](tools/oracles.md)
+  * [Chainlink](integrations/oracles/chainlink.md)
 * [RPC endpoints](tools/rpc-endpoints.md)
 * [The Subgraph](tools/the-subgraph.md)
 
